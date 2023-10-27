@@ -9,9 +9,9 @@ In this project study, you are asked to create the big data-based information sy
 <br>
 **2)** A simple Java Web application will be developed to perform the following tasks:<br>
 *	**a)** Personnel and department data will be read from CVS files as if reading data 	from the database (writing operation is not required)<br>
-	**b)** Personnel images will be taken via HDFS (may be with or without using Spark).<br>
-	**c)** There will be a single web page, on this page the information will be displayed in a table using the JOIN operation on Spark DF. Information to display: employee 	name, manager name, salary, commission, department.<br>
-	**d)** You are free to use Scala or Python to read and JOIN CSV data on DF with RDD. 	For this you will need to write a small program in Scala (or Python).<br>
+*	**b)** Personnel images will be taken via HDFS (may be with or without using Spark).<br>
+*	**c)** There will be a single web page, on this page the information will be displayed in a table using the JOIN operation on Spark DF. Information to display: employee 	name, manager name, salary, commission, department.<br>
+*	**d)** You are free to use Scala or Python to read and JOIN CSV data on DF with RDD. 	For this you will need to write a small program in Scala (or Python).<br>
 <br>
 ![Project architecture.](SWE307-pro1.png)
 <br>
