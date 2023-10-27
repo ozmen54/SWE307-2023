@@ -6,7 +6,7 @@ In this project study, you are asked to create the big data-based information sy
 **What is required from you is as follows:**
 
 **1)** Hadoop-HDFS will be installed to create a HDFS - Spark pipeline.
-
+<br>
 **2)** A simple Java Web application will be developed to perform the following tasks:
 	**a)** Personnel and department data will be read from CVS files as if reading data 	from the database (writing operation is not required)
 	**b)** Personnel images will be taken via HDFS (may be with or without using Spark).
