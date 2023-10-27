@@ -14,3 +14,5 @@ In this project study, you are asked to create the big data-based information sy
 	**d)** You are free to use Scala or Python to read and JOIN CSV data on DF with RDD. 	For this you will need to write a small program in Scala (or Python).
 
 ![Project architecture.](SWE307-pro1.png)
+**Figure 1.** Big data based web information system.
+**PS:*** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
