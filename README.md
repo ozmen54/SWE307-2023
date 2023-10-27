@@ -12,3 +12,6 @@ What is required from you is as follows:
 	b) Personnel images will be taken via HDFS (may be with or without using Spark).
 	c) There will be a single web page, on this page the information will be displayed in 	a table using the JOIN operation on Spark DF. Information to display: employee 	name, manager name, salary, commission, department.
 	d) You are free to use Scala or Python to read and JOIN CSV data on DF with RDD. 	For this you will need to write a small program in Scala (or Python).
+
+<br>
+![Project architecture.](SWE307-pro1.png)
