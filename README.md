@@ -1,5 +1,5 @@
 # SWE307-2023
-## Due date: 9.11.2023 Thursday, in class.
+## Due date: 16.11.2023 Thursday, in class.
 
 In this project study, you are asked to create the big data-based information system shown in Figure 1. In the project work, the employee information of the company named "Magic" is stored in the "emp.csv" file on Hadoop-HDFS. The company's department information is stored in the "dept.csv" file. These two files are under the path "/user/hadoop/magic/data". Employee images are under the "/user/hadoop/magic/image" directory. 
 
