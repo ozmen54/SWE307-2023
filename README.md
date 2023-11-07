@@ -21,4 +21,5 @@ In this project study, you are asked to create the big data-based information sy
 <br>
 <br>
 **Working example output is shown below:**
+<br>
 ![Expected output.](Screenshot.png)
