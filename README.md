@@ -19,4 +19,5 @@ In this project study, you are asked to create the big data-based information sy
 <br>
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
+<br>
 ![Expected output.](Screenshot.png)
