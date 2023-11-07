@@ -18,4 +18,4 @@ In this project study, you are asked to create the big data-based information sy
 **Figure 1.** Big data based web information system.
 <br>
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
-![Working output.](SWE307-pro1.png)
+![Expected output.](Screenshot from 2023-11-07 16-01-08.png)
