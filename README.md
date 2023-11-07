@@ -13,10 +13,10 @@ In this project study, you are asked to create the big data-based information sy
 	&nbsp;&nbsp;&nbsp;**c)** There will be a single web page, on this page the information will be displayed in a table using the JOIN operation on Spark dataset. Information to display: employee name, manager name, salary, commission, department.<br>
 	&nbsp;&nbsp;&nbsp;**d)** You implement read and JOIN operations on CSV files provided using Java and Spring-Boot framework. You can develop your data processing part using spark-shell and scripts with Scala (or Python), and copy them to Java program as we did in the class.<br>
 <br>
-![Project architecture.](Screenshot from 2023-11-07 16-01-08.png)
+![Project architecture.](SWE307-pro1.png)
 <br>
 **Figure 1.** Big data based web information system.
 <br>
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
-![Expected output.](Screenshot from 2023-11-07 16-01-08.png)
+![Expected output.](Screenshot.png)
