@@ -26,9 +26,9 @@
     <tr>
       <td>3</td>
       <td>Java Application interact with Spark.</td>
-      <td>a) Show full working application with joins as defined in project. <br> b) Show only "emp" table content in the view.</td>
+      <td>a) Show full working application with joins as defined in project. <br> b) Show only "emp" table content in the view. (Will receive %50 of points of this stage)</td>
       <td>3 min</td>
-      <td>Total: 30<br>a) 30 <br>b) 15</td>
+      <td>30</td>
     </tr>
   </body>
 </table>
