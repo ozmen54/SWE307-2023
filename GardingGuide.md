@@ -14,7 +14,7 @@
       <td>Hadoop-HDFS Installation.</td>
       <td> a) Show "ls", "put" and "rm" instruction efective on HDFS. <br> b) Copy "emp.csv" and "dept.csv" files form local file system to HDFS "/user/hadoop/data".</td>
       <td>3 min</td>
-      <td>35</td>
+      <td>20<br>15</td>
     </tr>
     <tr>
       <td>2</td>
