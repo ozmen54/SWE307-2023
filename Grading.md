@@ -4,7 +4,7 @@
 * One person can be a speaker or members can present stages separately in one session.
 * All group members are expected in the board while presenting. Absent members will be penalized according to excuse.
 * Group members help each other to hook their computer to the projector quickly.
-* Members who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
+* Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
 
 <table>
   <header>
