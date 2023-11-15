@@ -36,5 +36,9 @@
       <td>3 min</td>
       <td>30</td>
     </tr>
+    <tr>
+      <td colspan="3">TOTAL</td>
+      <td>100</td>
+    </tr>
   </body>
 </table>
