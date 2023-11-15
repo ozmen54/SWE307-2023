@@ -25,7 +25,7 @@
     <tr>
       <td>2</td>
       <td>Spark Installation.</td>
-      <td>a) Show spark-shell is working, must show CLI prompt "scala >" (20). <br> b) Read "emp.csv" to a dataset (var name could be "empDS"), and show it in the spark-shell screen (15).</td>
+      <td>a) Show spark-shell is working, must show CLI prompt "scala >" (20). <br> b) Read "emp.csv" to a dataset (variable name could be "empDS"), and show it in the spark-shell screen (15).</td>
       <td>3 m</td>
       <td>35</td>
     </tr>
