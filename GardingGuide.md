@@ -38,6 +38,7 @@
     </tr>
     <tr>
       <td colspan="3">TOTAL</td>
+      <td>10</td>
       <td>100</td>
     </tr>
   </body>
