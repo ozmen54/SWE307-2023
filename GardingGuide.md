@@ -1,5 +1,6 @@
 # Grading Guide
 * Groups are allowed 10 minutes to present their work.
+* Groups are called to present their work based on a random number announced in the class. 
 * One person can be a speaker or members can present stages separately in one session.
 * All group members are expected in the board while presenting. Absent members will be penalized according to excuse.
 * Group members help each other to hook their computer to the projector quickly.
