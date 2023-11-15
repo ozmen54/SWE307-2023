@@ -1,5 +1,4 @@
 # Grading Guide
-* -----------------------------------------
 * Groups are allowed 10 minutes to present their work.
 * One person can be a speaker or members can present stages separately in one session.
 * All group members are expected in the board while presenting. Absent members will be penalized according to excuse.
