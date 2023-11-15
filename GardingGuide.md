@@ -37,7 +37,7 @@
       <td>30</td>
     </tr>
     <tr>
-      <td colspan="3"; text-align="right";>TOTAL</td>
+      <td colspan="3" align="right">TOTAL</td>
       <td>10 m</td>
       <td>100</td>
     </tr>
