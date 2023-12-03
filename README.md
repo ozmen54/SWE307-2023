@@ -40,6 +40,7 @@ In this project study, you are asked to create WhatsApp like, scalable chat appl
 **2)** Only one “topic” in Kafka and views will be sufficient to show functionality. <br>
 **3)** Any user will be able to send a message and the other users will be see the message right away with the sender name (without any refresh button, see Figure  <br>
 
+**Project architecture:** . 
 <br>
 ![Project architecture.](pro2b.png)
 <br>
