@@ -15,7 +15,8 @@ A Java web application will perform the following tasks:
 **2)** The images will be fetched from HDFS as done in Project 1. You don’t need to do anything on this.<br>
 **3)** There will be two views “index.html” and “add.html”: on index page the information about employee must be displayed full including the joins done in Spark module. Both manager names and department names must be shown as in Project 1. Add page is just to add a new employee to the “emp” table. <br>
 **4)** In the index view there will be counter columns for “Like” and “Dislike”, as well as button columns for “Like” and “Dislike”.<br>
-**5)**
+**5)** If “Like” (or “Dislike”) button pressed, the counter must be increased in the Cassandra DB and the view must be refreshed to reflect this change. <br>
+**6)** Add button must be somewhere on top of index view. Once pressed, required data must be collected properly and changes shown after “SAVE” button pressed.<br>
 
 <br>
 ![Project architecture.](pro-1.png)
