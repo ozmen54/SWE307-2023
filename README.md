@@ -19,18 +19,17 @@ A Java web application will perform the following tasks:
 **6)** Add button must be somewhere on top of index view. Once pressed, required data must be collected properly and changes shown after *SAVE* button pressed.<br>
 
 <br>
-![Project architecture.](pro2-a.png)
+![Project architecture.](pro2a.png)
 <br>
 **Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
 <br>
-
 
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
 <br>
 **Working example output is shown below:**
 <br>
-![Expected output.](Screenshot.png)
+![Expected output.](--Screenshot.png)
 
 ## DESCRIPTION OF PROBLEM B:
 
