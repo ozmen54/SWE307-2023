@@ -1,7 +1,12 @@
-# SWE307-2023
-## Due date: 16.11.2023 Thursday, in class.
+# SWE307-2023 PROJECT 2
+## Due date: 4.1.2023 Thursday, in class.
 
-In this project study, you are asked to create the big data-based information system shown in Figure 1. In the project work, the employee information of the company named "Magic" is stored in the "emp.csv" file on Hadoop-HDFS. The company's department information is stored in the "dept.csv" file. These two files are under the path "/user/hadoop/magic/data". Employee images are under the "/user/hadoop/magic/image" directory. 
+## SELECT THE PROBLEM A OR B : 
+I will register group project selections in the class of 7 December 2023.
+
+## DESCRIPTION OF PROBLEM A:
+
+In this project study, you are asked to create the big data-based web information system shown in Figure 1. In the project work, the data is given in the "emp.csv", and “dept.csv” files on GitHub. You can use the same data/files from the previous project. “vote” table data must be generated.  
 
 **What is required from you is as follows:**
 
