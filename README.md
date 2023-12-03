@@ -5,11 +5,6 @@
 
 ## DESCRIPTION OF PROBLEM A:
 
-<br>
-![Project architecture.](pro2-a.png)
-<br>
-**Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
-<br>
 In this project study, you are asked to create the big data-based web information system shown in Figure 1. In the project work, the data is given in the *emp.csv*, and *dept.csv* files on GitHub. You can use the same data/files from the previous project. *vote* table data must be generated.  
 
 **What is required from you is as follows:**
@@ -23,6 +18,11 @@ A Java web application will perform the following tasks:
 **5)** If Like (or Dislike) button pressed, the counter must be increased in the Cassandra DB and the view must be refreshed to reflect this change. <br>
 **6)** Add button must be somewhere on top of index view. Once pressed, required data must be collected properly and changes shown after *SAVE* button pressed.<br>
 
+<br>
+![Project architecture.](pro2-a.png)
+<br>
+**Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
+<br>
 
 
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
