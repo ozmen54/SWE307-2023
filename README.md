@@ -29,3 +29,7 @@ A Java web application will perform the following tasks:
 **Working example output is shown below:**
 <br>
 ![Expected output.](Screenshot.png)
+
+
+
+## DESCRIPTION OF PROBLEM B:
