@@ -21,14 +21,13 @@ A Java web application will perform the following tasks:
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
 <br>
-**Working example output is shown below:**
-<br>
 ![Project architecture.](pro2a.png)
 <br>
 **Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
 <br>
 
-<!-- ![Expected output.](--Screenshot.png) -->
+<!-- **Working example output is shown below:** 
+![Expected output.](--Screenshot.png) -->
 
 ## DESCRIPTION OF PROBLEM B:
 
