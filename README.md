@@ -21,7 +21,7 @@ A Java web application will perform the following tasks:
 <br>
 ![Project architecture.](pro2-a.png)
 <br>
-**Figure 1.** Big data based web information system.
+**Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
 <br>
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
