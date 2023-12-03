@@ -47,9 +47,9 @@ In this project study, you are asked to create WhatsApp like, scalable chat appl
 **Figure 2.** WhatsApp like chat application with Apache-Kafka broker. 
 <br>
 
-**Example views:**
-**Login:**
+**Example views:**<br>
+**Login:**<br>
 ![Login.](fig3.png)
-
-**Messaging:**
+<br>
+**Messaging:**<br>
 ![Messages.](fig4.png)
