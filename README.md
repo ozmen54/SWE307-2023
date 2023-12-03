@@ -1,8 +1,7 @@
 # SWE307-2023 PROJECT 2
 ## Due date: 4.1.2023 Thursday, in class.
 
-## SELECT THE PROBLEM A OR B : 
-I will register group project selections in the class of 7 December 2023.
+SELECT THE PROBLEM A OR B : I will register group project selections in the class of 7 December 2023.
 
 ## DESCRIPTION OF PROBLEM A:
 
@@ -10,13 +9,14 @@ In this project study, you are asked to create the big data-based web informatio
 
 **What is required from you is as follows:**
 
-**1)** Hadoop-HDFS will be installed to create a HDFS - Spark pipeline.
-<br>
-**2)** A simple Java Web application will be developed to perform the following tasks:<br>
-	&nbsp;&nbsp;&nbsp;**a)** Employee and department data will be read from CVS files as if reading data from the database (writing operation is not required)<br>
-	&nbsp;&nbsp;&nbsp;**b)** Employee images will be taken directly from HDFS.<br>
-	&nbsp;&nbsp;&nbsp;**c)** There will be a single web page, on this page the information will be displayed in a table using the JOIN operation on Spark dataset. Information to display: employee name, manager name, salary, commission, department.<br>
-	&nbsp;&nbsp;&nbsp;**d)** You implement read and JOIN operations on CSV files provided using Java and Spring-Boot framework. You can develop your data processing part using spark-shell and scripts with Scala (or Python), and copy them to Java program as we did in the class.<br>
+A Java web application will perform the following tasks:
+
+**1)** Employee and department data will be read from Cassandra. Initial data to these tables can be loaded from csv files. “vote” table has 3 three columns, empno, like and dislike: empno has the same type of “emp” table column due to 1-1 relation, like and dislike columns will be counter type. <br>
+**2)** The images will be fetched from HDFS as done in Project 1. You don’t need to do anything on this.<br>
+**3)** There will be two views “index.html” and “add.html”: on index page the information about employee must be displayed full including the joins done in Spark module. Both manager names and department names must be shown as in Project 1. Add page is just to add a new employee to the “emp” table. <br>
+**4)** In the index view there will be counter columns for “Like” and “Dislike”, as well as button columns for “Like” and “Dislike”.<br>
+**5)**
+
 <br>
 ![Project architecture.](pro-1.png)
 <br>
