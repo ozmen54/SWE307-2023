@@ -19,7 +19,7 @@ A Java web application will perform the following tasks:
 **6)** Add button must be somewhere on top of index view. Once pressed, required data must be collected properly and changes shown after “SAVE” button pressed.<br>
 
 <br>
-![Project architecture.](pro-1.png)
+![Project architecture.](pro2a.png)
 <br>
 **Figure 1.** Big data based web information system.
 <br>
