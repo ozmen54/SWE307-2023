@@ -1,11 +1,11 @@
 # SWE307-2023 PROJECT 2
 ## Due date: 4.1.2023 Thursday, in class.
 
-SELECT THE PROBLEM A OR B : I will register group project selections in the class of 7 December 2023.
+*SELECT THE PROBLEM A OR B*: I will register group project selections in the class of 7 December 2023.
 
 ## DESCRIPTION OF PROBLEM A:
 
-In this project study, you are asked to create the big data-based web information system shown in Figure 1. In the project work, the data is given in the "emp.csv", and “dept.csv” files on GitHub. You can use the same data/files from the previous project. “vote” table data must be generated.  
+In this project study, you are asked to create the big data-based web information system shown in Figure 1. In the project work, the data is given in the *emp.csv*, and *dept.csv* files on GitHub. You can use the same data/files from the previous project. *vote* table data must be generated.  
 
 **What is required from you is as follows:**
 
@@ -29,8 +29,6 @@ A Java web application will perform the following tasks:
 **Working example output is shown below:**
 <br>
 ![Expected output.](Screenshot.png)
-
-
 
 ## DESCRIPTION OF PROBLEM B:
 
