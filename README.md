@@ -48,5 +48,8 @@ In this project study, you are asked to create WhatsApp like, scalable chat appl
 <br>
 
 **Example views:**
+**Login:**
 ![Login.](fig3.png)
+
+**Messaging:**
 ![Messages.](fig4.png)
