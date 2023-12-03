@@ -33,3 +33,13 @@ A Java web application will perform the following tasks:
 
 
 ## DESCRIPTION OF PROBLEM B:
+
+In this project study, you are asked to create WhatsApp like, scalable chat application shown in Figure 2. In the project work, you are expected to use Apache-Kafka for message broker.
+
+**What is required from you is as follows:**
+**Backend:** A Java web application must be developed with WebSocket and Kafka API.<br>
+**Frontend:** WhatsApp like views must be implemented with React.<br>
+**1)** A user must be logged in before sending a message (see Figure 3).  <br>
+**2)** Only one “topic” in Kafka and views will be sufficient to show functionality. <br>
+**3)** Any user will be able to send a message and the other users will be see the message right away with the sender name (without any refresh button, see Figure  <br>
+
