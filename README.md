@@ -17,20 +17,18 @@ A Java web application will perform the following tasks:
 **4)** In the index view there will be counter columns for Like and Dislike, as well as button columns for Like and Dislike.<br>
 **5)** If Like (or Dislike) button pressed, the counter must be increased in the Cassandra DB and the view must be refreshed to reflect this change. <br>
 **6)** Add button must be somewhere on top of index view. Once pressed, required data must be collected properly and changes shown after *SAVE* button pressed.<br>
-
 <br>
-
-<br>
-**Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
-<br>
-
 **PS:** Example image files and csv files will be provided on Github repository, you can clone/download everything provided. 
 <br>
 <br>
 **Working example output is shown below:**
 <br>
 ![Project architecture.](pro2a.png)
-![Expected output.](--Screenshot.png)
+<br>
+**Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
+<br>
+
+<!-- ![Expected output.](--Screenshot.png) -->
 
 ## DESCRIPTION OF PROBLEM B:
 
