@@ -3,6 +3,8 @@
 
 *SELECT THE PROBLEM A OR B*: I will register group project selections in the class of 7 December 2023.
 
+<hr>
+
 ## DESCRIPTION OF PROBLEM A:
 
 In this project study, you are asked to create the big data-based web information system shown in Figure 1. In the project work, the data is given in the *emp.csv*, and *dept.csv* files on GitHub. You can use the same data/files from the previous project. *vote* table data must be generated.  
@@ -26,10 +28,11 @@ A Java web application will perform the following tasks:
 **Figure 1.** Big data based web information system with Spark-Cassandra data pipeline.
 <br>
 
-<!-- **Working example output is shown below:** 
-![Expected output.](--Screenshot.png) -->
+**Example views:** 
+<!-- ![Expected output.](--Screenshot.png) -->
 
 <hr>
+
 ## DESCRIPTION OF PROBLEM B:
 
 In this project study, you are asked to create WhatsApp like, scalable chat application shown in Figure 2. In the project work, you are expected to use Apache-Kafka for message broker.
