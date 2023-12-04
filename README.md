@@ -29,6 +29,7 @@ A Java web application will perform the following tasks:
 <!-- **Working example output is shown below:** 
 ![Expected output.](--Screenshot.png) -->
 
+<hr>
 ## DESCRIPTION OF PROBLEM B:
 
 In this project study, you are asked to create WhatsApp like, scalable chat application shown in Figure 2. In the project work, you are expected to use Apache-Kafka for message broker.
