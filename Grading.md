@@ -18,22 +18,22 @@
   <body>
     <tr>
       <td>1</td>
-      <td>Hadoop-HDFS Installation.</td>
-      <td> a) Show that HDFS is running: Show image files location under HDFS (20). <br> b) Show that Cassandra database server is running. Show keyspace and 'emp', 'dept' tables. (15).</td>
+      <td>Hadoop-HDFS + Spark Installation.</td>
+      <td> a) Show that HDFS is running: Show image files location under HDFS. (20) <br> b) Show spark-shell is working, must show CLI prompt "scala >". (15)</td>
       <td>4 m</td>
       <td>35</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Cassandra Installation.</td>
-      <td>a) Show spark-shell is working, must show CLI prompt "scala >" (20). <br> b) Read "emp.csv" to a dataset (variable name could be "empDS"), and show it in the spark-shell screen (15).</td>
+      <td>a) Show that Cassandra database server is running. Run 'cqlsh >'.  (20) <br> b) Show keyspace. Show 'emp', 'dept' tables at cqlsh. (15)</td>
       <td>3 m</td>
       <td>35</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Java Application interact with Spark.</td>
-      <td>a) Show full working application with joins as defined in project (30). <br> b) Show only "emp" table content in the view (15). </td>
+      <td>a) Show only "emp" table content in the view with images. (15)<br> b) Show full working application with joins as defined in project. (30) </td>
       <td>3 m</td>
       <td>30</td>
     </tr>
