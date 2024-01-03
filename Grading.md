@@ -19,23 +19,23 @@
     <tr>
       <td>1</td>
       <td>Hadoop-HDFS + Spark Installation.</td>
-      <td> a) Show that HDFS is running: Show image files location under HDFS. (20) <br> b) Show spark-shell is working, must show CLI prompt "scala >". (15)</td>
-      <td>4 m</td>
+      <td> a) Show that HDFS is running: Show image files location under HDFS. (15) <br> b) Show spark-shell is working, must show CLI prompt "scala >". (15)</td>
+      <td>3 m</td>
       <td>35</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Cassandra Installation.</td>
-      <td>a) Show that Cassandra database server is running. Run 'cqlsh >'.  (20) <br> b) Show keyspace. Show 'emp', 'dept' tables at cqlsh. (15)</td>
+      <td>a) Show that Cassandra database server is running. Run 'cqlsh >'.  (15) <br> b) Show keyspace. Show 'emp', 'dept' tables at cqlsh. (15)</td>
       <td>3 m</td>
       <td>35</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Java Spring Boot Application interact with Spark.</td>
-      <td>a) Show only "emp" table content in the view with images. Data must be fetched through Spark using RDDs, not directly from Cassandra. (15)<br> b) Show full working application with joins as defined in project. Data must be fetched through Spark using RDDs, not directly from Cassandra. (30) </td>
-      <td>3 m</td>
-      <td>30</td>
+      <td>a) Show only "emp" table content in the view with images. Data must be fetched through Spark using RDDs, not directly from Cassandra. (15)<br> b) Show full working application with joins as defined in project. Data must be fetched through Spark using RDDs, not directly from Cassandra. (40) </td>
+      <td>4 m</td>
+      <td>40</td>
     </tr>
     <tr>
       <td colspan="3" align="right">TOTAL</td>
