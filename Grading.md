@@ -32,8 +32,8 @@
     </tr>
     <tr>
       <td>3</td>
-      <td>Java Application interact with Spark.</td>
-      <td>a) Show only "emp" table content in the view with images. (15)<br> b) Show full working application with joins as defined in project. (30) </td>
+      <td>Java Spring Boot Application interact with Spark.</td>
+      <td>a) Show only "emp" table content in the view with images. Data must be fetched through Spark using RDDs, not directly from Cassandra. (15)<br> b) Show full working application with joins as defined in project. Data must be fetched through Spark using RDDs, not directly from Cassandra. (30) </td>
       <td>3 m</td>
       <td>30</td>
     </tr>
