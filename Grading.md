@@ -7,7 +7,7 @@
 * Group members help each other to hook their computer to the projector quickly.
 * Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
 
-## Type A specific stuff:
+## Type A Grading:
 
 <table>
   <header>
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## Type B specific stuff:
+## Type B Grading:
 
 <table>
   <header>
