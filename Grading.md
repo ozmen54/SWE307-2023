@@ -1,4 +1,4 @@
-# Grading Guide for A Type Projects
+# Grading Guide for Project II of Big Data (SWE 307)
 ## General rules that apply both groups
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
