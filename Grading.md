@@ -1,4 +1,4 @@
-# Grading Guide for Project II of Big Data (SWE 307)
+# Grading Guide for Project II of Big Data (SWE 307 2023 Fall Semester)
 ## General rules that apply both groups
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
