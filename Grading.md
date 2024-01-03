@@ -8,7 +8,6 @@
 * Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
 
 ## Type A specific stuff:
-* Have all necessary data ("emp.csv", "dept.csv") and image files provided ready in your computer local filesystem as well as proper locations under HDFS or Cassandra.
 
 <table>
   <header>
